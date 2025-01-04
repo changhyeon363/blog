@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: be free
 ---
-+/
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get star/ted.
+뭐 쓰지.

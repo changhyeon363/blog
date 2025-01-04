@@ -5,6 +5,11 @@ import * as Plugin from "./quartz/plugins"
  * Quartz 4.0 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
+ * 
+ * 수정할 것
+ * analytics
+ * locale
+ * theme
  */
 const config: QuartzConfig = {
   configuration: {
@@ -16,7 +21,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "changhyeon363.github.io/blog/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
