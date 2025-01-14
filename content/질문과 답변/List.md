@@ -1,6 +1,6 @@
 ---
 title: 질문 List
-draft: false
+draft: true
 date: 2025-01-09
 ---
 > [!tip] 형식
