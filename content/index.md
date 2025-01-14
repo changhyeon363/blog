@@ -1,8 +1,6 @@
 ---
-title: index.md
-draft: true
+title: 손
 ---
-
 
 ## 기억할 것
 (*내가*)
