@@ -1,5 +1,5 @@
 ---
-title: .
+title: index.md
 draft: true
 ---
 
