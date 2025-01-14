@@ -1,7 +1,14 @@
 ---
-title: be free
-public: true
+title: .
+draft: true
 ---
-뭐 쓰지.
 
-![[map.png]]
+
+## 기억할 것
+(*내가*)
+
+- 일반화 조심
+- 감정 조심
+- 상투성 걷어내기
+- 커지는 것. 
+- 아는 만큼만
