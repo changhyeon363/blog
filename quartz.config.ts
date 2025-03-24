@@ -13,12 +13,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 공부하자",
+    pageTitle: "😊 공부하자",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: 'G-6H1WLY5R99'
+
     },
     locale: "en-US",
     baseUrl: "changhyeon363.github.io/blog/",
